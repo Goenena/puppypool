@@ -1,2 +1,0 @@
-# puppypool
-Cardano Stake Pool
